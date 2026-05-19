@@ -1,4 +1,4 @@
-# Valery Satsura — AI Engineer 🤖
+# Valery Satsura - AI Engineer 🤖
 
 > I build websites, automate workflows and bring businesses online.
 
