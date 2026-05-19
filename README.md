@@ -1,11 +1,14 @@
 # Valery Satsura - AI Engineer 🤖
 
+![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1500&color=2EA44F&center=true&vCenter=true&width=720&lines=AI+Engineer+%C2%B7+20%2B+years+shipping;LLM+automation%2C+chatbots+%26+websites;Let%27s+build+something+together+%F0%9F%9A%80)
+
 > I build websites, automate workflows and bring businesses online.
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Available-2ea44f?style=for-the-badge)
 ![Experience](https://img.shields.io/badge/Experience-20%2B%20years-orange?style=for-the-badge)
 ![Based in](https://img.shields.io/badge/Based%20in-Remote-blue?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-English%20%C2%B7%20Russian-lightgrey?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=satsura&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 
 ## 🚀 Let's Work Together
 
@@ -107,6 +110,58 @@ What I can build for you:
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+
+## ❓ FAQ
+
+<details>
+<summary><b>How much does a project cost?</b></summary>
+<br>
+It depends on scope. After our free 30-min intro call you get a fixed-price quote with clear deliverables and milestones - no surprises, no hourly meter running.
+</details>
+
+<details>
+<summary><b>Do you sign an NDA?</b></summary>
+<br>
+Always. I send a standard mutual NDA before any sensitive details are shared, or I'm happy to sign yours.
+</details>
+
+<details>
+<summary><b>Who owns the code and IP?</b></summary>
+<br>
+You do. Full source code and intellectual property transfer to you with each milestone. No vendor lock-in.
+</details>
+
+<details>
+<summary><b>What if the result doesn't meet expectations?</b></summary>
+<br>
+Work ships in small milestones - you review and approve each one. If something is off, we fix it before moving forward. You only pay for what's accepted.
+</details>
+
+<details>
+<summary><b>How do we communicate during the project?</b></summary>
+<br>
+Daily async updates via Telegram, Slack or email - your call. Weekly check-in calls if needed. You always know where things stand.
+</details>
+
+<details>
+<summary><b>Do you offer support after launch?</b></summary>
+<br>
+Yes - monthly retainers for ongoing support, fixes and small features, or on-demand engagements as things come up.
+</details>
+
+<details>
+<summary><b>How soon can we start?</b></summary>
+<br>
+Usually within 1-2 weeks of the intro call. Urgent projects - ask, sometimes I can fit you in sooner.
+</details>
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satsura/satsura/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/satsura/satsura/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/satsura/satsura/output/github-snake.svg" />
+</picture>
 
 ---
 
