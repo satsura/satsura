@@ -35,4 +35,4 @@
 
 ---
 
-📬 Open to interesting AI / automation projects — reach out via [valera.dev](https://valera.dev).
+📬 Open to interesting AI and automation projects — reach out via [valera.dev](https://valera.dev).
