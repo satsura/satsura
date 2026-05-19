@@ -7,6 +7,20 @@
 ![Based in](https://img.shields.io/badge/Based%20in-Remote-blue?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-English%20%C2%B7%20Russian-lightgrey?style=for-the-badge)
 
+## 🚀 Let's Work Together
+
+[![Book a Free Call](https://img.shields.io/badge/%F0%9F%93%85%20Book%20a%20Free%2030%E2%80%91min%20Call-2ea44f?style=for-the-badge&logoColor=white)](https://valera.dev)
+[![Message on Telegram](https://img.shields.io/badge/%F0%9F%92%AC%20Message%20on%20Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vsatsura)
+[![Send Email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satsura@gmail.com)
+
+**How it works:**
+
+1. **📞 Free 30-min intro call** · we discuss your idea, I propose a plan and rough timeline.
+2. **📋 Fixed-scope proposal** · clear deliverables, milestones and price - no surprises.
+3. **🚀 Build & ship** · typical MVP turnaround is 1-4 weeks; we iterate from there.
+
+> Whether it's a chatbot, an AI agent, a website or full automation - I help you ship it fast and right.
+
 ## Contact Information
 - **Website:** [valera.dev](https://valera.dev)
 - **Email:** satsura@gmail.com
