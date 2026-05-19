@@ -9,7 +9,7 @@
 
 ## 🚀 Let's Work Together
 
-[![Book a Free Call](https://img.shields.io/badge/%F0%9F%93%85%20Book%20a%20Free%2030%E2%80%91min%20Call-2ea44f?style=for-the-badge&logoColor=white)](https://cal.com/satsura/30min)
+[![Book a Free Call](https://img.shields.io/badge/%F0%9F%93%85%20Book%20a%20Free%2030%E2%80%91min%20Call-2ea44f?style=for-the-badge&logoColor=white)](https://www.valera.dev/en/book)
 [![Message on Telegram](https://img.shields.io/badge/%F0%9F%92%AC%20Message%20on%20Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vsatsura)
 [![Send Email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satsura@gmail.com)
 [![Connect on LinkedIn](https://img.shields.io/badge/%F0%9F%94%97%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valery-satsura/)
