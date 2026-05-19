@@ -1,3 +1,9 @@
+<div align="right">
+
+![Profile Views](https://komarev.com/ghpvc/?username=satsura&label=Profile%20Views&color=blueviolet&style=flat-square)
+
+</div>
+
 ![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1500&color=000000,2EA44F,0A66C2,DC382D,F38020,8E75B2&center=false&vCenter=true&width=780&height=60&lines=Valery+Satsura+%C2%B7+AI+Engineer;20%2B+years+shipping+production+software;LLM+automation%2C+chatbots+%26+websites;Let%27s+build+something+together+%F0%9F%9A%80)
 
 > I build websites, automate workflows and bring businesses online.
@@ -6,7 +12,6 @@
 ![Experience](https://img.shields.io/badge/Experience-20%2B%20years-orange?style=for-the-badge)
 ![Based in](https://img.shields.io/badge/Based%20in-Remote-blue?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-English%20%C2%B7%20Russian-lightgrey?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=satsura&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 
 ## 🚀 Let's Work Together
 
