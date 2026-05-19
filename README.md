@@ -1,4 +1,4 @@
-![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1500&color=000000,2EA44F,0A66C2,DC382D,F38020,8E75B2&center=true&vCenter=true&width=780&height=60&lines=Valery+Satsura+%C2%B7+AI+Engineer;20%2B+years+shipping+production+software;LLM+automation%2C+chatbots+%26+websites;Let%27s+build+something+together+%F0%9F%9A%80)
+![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1500&color=000000,2EA44F,0A66C2,DC382D,F38020,8E75B2&center=false&vCenter=true&width=780&height=60&lines=Valery+Satsura+%C2%B7+AI+Engineer;20%2B+years+shipping+production+software;LLM+automation%2C+chatbots+%26+websites;Let%27s+build+something+together+%F0%9F%9A%80)
 
 > I build websites, automate workflows and bring businesses online.
 
