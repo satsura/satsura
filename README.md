@@ -9,23 +9,18 @@
 
 ## 🚀 Let's Work Together
 
-[![Book a Free Call](https://img.shields.io/badge/%F0%9F%93%85%20Book%20a%20Free%2030%E2%80%91min%20Call-2ea44f?style=for-the-badge&logoColor=white)](https://valera.dev)
+[![Book a Free Call](https://img.shields.io/badge/%F0%9F%93%85%20Book%20a%20Free%2030%E2%80%91min%20Call-2ea44f?style=for-the-badge&logoColor=white)](https://cal.com/satsura/30min)
 [![Message on Telegram](https://img.shields.io/badge/%F0%9F%92%AC%20Message%20on%20Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vsatsura)
 [![Send Email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satsura@gmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/%F0%9F%94%97%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valery-satsura/)
 
 **How it works:**
 
-1. **📞 Free 30-min intro call** · we discuss your idea, I propose a plan and rough timeline.
-2. **📋 Fixed-scope proposal** · clear deliverables, milestones and price - no surprises.
-3. **🚀 Build & ship** · typical MVP turnaround is 1-4 weeks; we iterate from there.
+1. **📞 Free 30-min intro call** · we discuss your idea, I share honest feedback and a rough plan.
+2. **📋 Scoped proposal** · clear deliverables, milestones and price - agreed before any code is written.
+3. **🚀 Build & ship in iterations** · you see progress weekly, give feedback, we adjust as we go.
 
 > Whether it's a chatbot, an AI agent, a website or full automation - I help you ship it fast and right.
-
-## Contact Information
-- **Website:** [valera.dev](https://valera.dev)
-- **Email:** satsura@gmail.com
-- **Telegram:** [@vsatsura](https://t.me/vsatsura)
-- **LinkedIn:** [linkedin.com/in/valery-satsura](https://www.linkedin.com/in/valery-satsura/)
 
 ## Professional Summary
 - **Role:** AI Engineer & Full Stack Developer 🏗️
